@@ -10,9 +10,12 @@ public class AccessModifiers {
 }
 
 class A {
+	int age=0;
 	
 	
-	
+}
+
+class B extends A{
 	
 	
 }

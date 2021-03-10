@@ -1,17 +1,17 @@
 
 public class School {
 	public static void main(String[] args) {
-		int i; 
 		
-		for( i=0;i<10; i++) {
-			Teacher teacher = new Teacher("shyam" + i );	
-			
-		}
 		
-		while(i <10) { 
+	//	for( i=0;i<10; i++) {
+	//		Teacher teacher = new Teacher("shyam" + i );	
+			
+	//	}
+		
+	//	while(i <10) { 
 			
 			
-		}
+		//}
 		System.out.println("Hello");
 		Student student = new Student("Ram");
 		student.setAge((byte)10);
