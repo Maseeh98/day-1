@@ -1,0 +1,14 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestMath {
+
+	@Test
+	void testAdd() {
+		Math math = new Math();
+		math.add();
+		fail("Not yet implemented");
+	}
+
+}

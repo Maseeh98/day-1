@@ -1,0 +1,9 @@
+
+public class ReadFromConsole {
+	public static void main(String[] args) {
+		byte[] input = new byte[100];
+		System.out.println(input);
+		System.out.println(input);
+	}
+
+}

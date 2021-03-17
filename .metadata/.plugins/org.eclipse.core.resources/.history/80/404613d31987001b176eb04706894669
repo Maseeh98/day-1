@@ -1,0 +1,6 @@
+
+public class Math {
+	add()
+
+}
+// add should take any number of integers and return their sum 

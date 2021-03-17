@@ -1,0 +1,10 @@
+import java.io.FileReader;
+import java.io.Reader;
+
+public class ReadFileData {
+	
+	public static void main(String[] args) {
+		Reader reader = new FileReader("./Input");
+	}
+
+}
