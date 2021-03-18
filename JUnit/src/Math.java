@@ -7,7 +7,12 @@ public class Math {
 			result+= numbers[counter++];
 		}
 		return result;
-	}
+		}
+	
+
+
+// add should take any number of integers and return their sum 
+
+  
 
 }
-// add should take any number of integers and return their sum 
